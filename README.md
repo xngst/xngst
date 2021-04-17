@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xngst
-- 👀 I’m interested in python language, webscraping of open data and data analysis
+- 👀 I’m interested in python, webscraping of open data and data analysis
 - 💞️ I’m looking to collaborate on open data projects
 - 📫 How to reach me tarcvzf@protonmail.ch
 
