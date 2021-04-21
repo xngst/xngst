@@ -1,7 +1,7 @@
--Hi, I’m @xngst
--I am interested in python, webscraping of open data and data analysis
--Looking to collaborate on open data projects
--Reach me under: tarcvzf@protonmail.ch
+-Hi, I’m @xngst  
+-I am interested in python, webscraping of open data and data analysis  
+-Looking to collaborate on open data projects  
+-Reach me under: tarcvzf@protonmail.ch  
 
 <!---
 xngst/xngst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
