@@ -17,10 +17,10 @@ A NAV elektronikus árverési felületén található ingóság árverések tét
 BKK GTFS CSV fileok Sqlite adabázissá alakítása és különböző lekérdezések python sqlite3 modullal 
 
 [Bauxitbetonos épületek Budapesten](https://github.com/xngst/bauxitbeton_epuletek_budapesten)  
-Az ÉMI adatáblázata alapján egy térkép összerakásának teljes folyamatát tartalmazza Ipython Notebook és MarkDown formátumban, illetve az interaktív térképet html formátumban.
+Az ÉMI adat-táblázata alapján egy interaktív térkép összerakásának teljes folyamatát tartalmazza Ipython Notebook és MarkDown formátumban, illetve az interaktív térképet html formátumban.
 
 [Corvinus szd.lib scraper](https://github.com/xngst/Corvinus_thesis_scraper)  
-Finds meta details and scrapes thesis pdfs from http://szd.lib.uni-corvinus.hu/
+Finds and saves meta details of the html structure then downloads thesis pdfs from http://szd.lib.uni-corvinus.hu/
 
 ### Small python scripts for fun:
 
