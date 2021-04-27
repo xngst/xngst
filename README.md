@@ -36,7 +36,8 @@ Addíg húzunk amíg ötösünk nem lesz!
 
 ### Data Analysis
 [Budapest weather 2000-2020](https://github.com/xngst/Budapest_idojaras_2000-2020)
-> not complete at the moment only data and initial data munging is uploaded.
+Analysis of data describing 20 years weather of Budapest Hungary. 
+
 <hr>
 
 
