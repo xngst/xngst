@@ -7,6 +7,10 @@
 
 ### Hungarian open data projects:
 
+[Pressgraphs](https://github.com/xngst/press-graphs)  
+Press analytics Flask based API and Flask-Dash based GUI  
+Working WebGui is available under http://pressgraphs.herokuapp.com/
+
 [Országgyűlési Napló elemző](https://github.com/xngst/orszaggyulesi_naplo)  
 A csomag az Országgyűlési Napló pdf dokumentum letöltésére és elemzésére szolgál.
 
