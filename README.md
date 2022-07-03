@@ -25,6 +25,13 @@ Az ÉMI adat-táblázata alapján egy interaktív térkép összerakásának tel
 [Corvinus szd.lib scraper](https://github.com/xngst/Corvinus_thesis_scraper)  
 Finds and saves meta details of the html structure then downloads thesis pdfs from http://szd.lib.uni-corvinus.hu/
 
+### Programming challenges 
+
+[Advent of Code 2021](https://github.com/xngst/aocd_2021) 
+Advent of Code is an online Advent calendar where a new puzzle is published every day from December 1st to December 25th. Each puzzle becomes available at midnight, US Eastern Time.  
+Day 1 - 10 in python  
+Day 1 - 2 in bash  
+
 ### Small python scripts for fun:
 
 [RANDOM nemBÁNKITÓ FELLÉPŐ GENERÁTOR](https://github.com/xngst/random_zenekar)  
