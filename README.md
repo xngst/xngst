@@ -25,6 +25,13 @@ Az ÉMI adat-táblázata alapján egy interaktív térkép összerakásának tel
 [Corvinus szd.lib scraper](https://github.com/xngst/Corvinus_thesis_scraper)  
 Finds and saves meta details of the html structure then downloads thesis pdfs from http://szd.lib.uni-corvinus.hu/
 
+### Data Analysis
+[Budapest weather 2000-2020](https://github.com/xngst/Budapest_idojaras_2000-2020)  
+Analysis of data describing 20 years weather of Budapest Hungary. 
+
+[EDA of Activities of Daily Living (ADLs) Recognition Using Binary Sensors Data Set](https://github.com/xngst/Activities_of_Daily_Living_EDA/blob/main/ADL%20data.ipynb)  
+Exploratory Data Analysis of a time series dataset from UCI machine learning repositroy  
+
 ### Programming challenges 
 
 [Advent of Code 2021](https://github.com/xngst/aocd_2021) 
@@ -43,10 +50,6 @@ Very minimalistic python TK GUI to rename image files based on EXIF creation dat
 [Ötöslottó szimulátor](https://github.com/xngst/otoslotto_szimulator)  
 Addíg húzunk amíg ötösünk nem lesz!   
 
-
-### Data Analysis
-[Budapest weather 2000-2020](https://github.com/xngst/Budapest_idojaras_2000-2020)
-Analysis of data describing 20 years weather of Budapest Hungary. 
 
 <hr>
 
