@@ -14,6 +14,12 @@ Contains Jupiter notebooks and a html file.
 
 ### Hungarian open data projects:
 
+[Magyar vonatkozású nyílt adatok](https://github.com/xngst/Magyar-vonatkozasu-nyilt-adatok)  
+Collection of hungarian open data sources.
+
+[COVID-19-magyar-adatok](https://github.com/xngst/COVID-19-magyar-adatok)  
+koronavirus.gov.hu COVID 19 magyar adatok átvéve a https://atlo.team/koronamonitor/ honlapról.  
+
 [Pressgraphs](https://github.com/xngst/press-graphs)  
 Press analytics Flask based API and Flask-Dash based GUI  
 
