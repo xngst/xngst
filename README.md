@@ -55,7 +55,6 @@ Day 1 - 2 in bash
 ### Small python scripts for fun:
 
 [RANDOM nemBÁNKITÓ FELLÉPŐ GENERÁTOR](https://github.com/xngst/random_zenekar)  
-See sample implementation of flask project: http://semmitnembankito2020.herokuapp.com/
 
 [EXIF_date_to_title](https://github.com/xngst/EXIF_date_to_title)  
 Very minimalistic python TK GUI to rename image files based on EXIF creation date and custom label.
