@@ -60,14 +60,7 @@ See sample implementation of flask project: http://semmitnembankito2020.herokuap
 [EXIF_date_to_title](https://github.com/xngst/EXIF_date_to_title)  
 Very minimalistic python TK GUI to rename image files based on EXIF creation date and custom label.
 
-[Ötöslottó szimulátor](https://github.com/xngst/otoslotto_szimulator)  
-Addíg húzunk amíg ötösünk nem lesz!   
-
-
 <hr>
-
-
-
 
 <!---
 xngst/xngst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
