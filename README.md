@@ -47,7 +47,7 @@ Exploratory Data Analysis of a time series dataset from UCI machine learning rep
 
 ### Programming challenges 
 
-[Advent of Code 2021](https://github.com/xngst/aocd_2021) 
+[Advent of Code 2021](https://github.com/xngst/aocd_2021)  
 Advent of Code is an online Advent calendar where a new puzzle is published every day from December 1st to December 25th. Each puzzle becomes available at midnight, US Eastern Time.  
 Day 1 - 10 in python  
 Day 1 - 2 in bash  
