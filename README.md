@@ -54,6 +54,9 @@ Day 1 - 2 in bash
 
 ### Small python scripts for fun:
 
+[Időkép a terminálból](https://github.com/xngst/idokep)  
+Scrape local weather data and display in terminal  
+
 [RANDOM nemBÁNKITÓ FELLÉPŐ GENERÁTOR](https://github.com/xngst/random_zenekar)  
 
 [EXIF_date_to_title](https://github.com/xngst/EXIF_date_to_title)  
